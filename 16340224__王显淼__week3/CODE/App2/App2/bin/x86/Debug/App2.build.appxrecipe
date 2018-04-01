@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1b925a22-84fb-4817-82e9-6295b14e044b</PackageIdentityName>
     <PackageIdentityPublisher>CN=10994</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\10994\Desktop\App2\App2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\App2.exe">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\App2.exe">
       <PackagePath>entrypoint\App2.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,53 +370,53 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\background.jpeg">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\background.jpeg">
       <PackagePath>Assets\background.jpeg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\item.jpg">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\item.jpg">
       <PackagePath>Assets\item.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\App2.xr.xml">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\App2.xr.xml">
       <PackagePath>App2.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\Core\App2.exe">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\Core\App2.exe">
       <PackagePath>App2.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

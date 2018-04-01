@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1b925a22-84fb-4817-82e9-6295b14e044b</PackageIdentityName>
     <PackageIdentityPublisher>CN=10994</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\10994\Desktop\App2\App2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>51D06046724A640A34A20490FED9B3E20F0A7803720C66AC2AABD12E0F6E5D1A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>1b925a22-84fb-4817-82e9-6295b14e044b_1.0.0.0_x86__g6xj3f0617sr8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>1b925a22-84fb-4817-82e9-6295b14e044b_g6xj3f0617sr8!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-27T15:28:29.526</Modified>
+      <Modified>2018-03-28T14:34:21.373</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\App2.exe">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\App2.exe">
       <PackagePath>entrypoint\App2.exe</PackagePath>
-      <Modified>2018-03-27T15:28:28.977</Modified>
+      <Modified>2018-03-28T14:34:18.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,53 +495,53 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T14:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\background.jpeg">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\background.jpeg">
       <PackagePath>Assets\background.jpeg</PackagePath>
       <Modified>2018-03-22T06:47:49.423</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\item.jpg">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\item.jpg">
       <PackagePath>Assets\item.jpg</PackagePath>
       <Modified>2018-03-11T15:04:10.802</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-03-23T09:45:37.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-10T13:18:58.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\App2.xr.xml">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\App2.xr.xml">
       <PackagePath>App2.xr.xml</PackagePath>
       <Modified>2018-03-27T06:26:13.115</Modified>
     </AppxPackagedFile>
@@ -549,14 +549,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T09:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-27T14:30:38.858</Modified>
+      <Modified>2018-03-28T14:34:20.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\10994\Desktop\App2\App2\bin\x86\Debug\Core\App2.exe">
+    <AppxPackagedFile Include="G:\git-wcw\现代操作系统作业\16340224__王显淼__week3\CODE\App2\App2\bin\x86\Debug\Core\App2.exe">
       <PackagePath>App2.exe</PackagePath>
-      <Modified>2018-03-27T15:28:29.517</Modified>
+      <Modified>2018-03-28T14:34:21.360</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -25576,11 +25576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\10994\\Desktop\\App2\\App2\\App2.csproj",
+      "projectUniqueName": "G:\\git-wcw\\现代操作系统作业\\16340224__王显淼__week3\\CODE\\App2\\App2\\App2.csproj",
       "projectName": "App2",
-      "projectPath": "C:\\Users\\10994\\Desktop\\App2\\App2\\App2.csproj",
+      "projectPath": "G:\\git-wcw\\现代操作系统作业\\16340224__王显淼__week3\\CODE\\App2\\App2\\App2.csproj",
       "packagesPath": "C:\\Users\\10994\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\10994\\Desktop\\App2\\App2\\obj\\",
+      "outputPath": "G:\\git-wcw\\现代操作系统作业\\16340224__王显淼__week3\\CODE\\App2\\App2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
